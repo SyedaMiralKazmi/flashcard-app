@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+input, textarea {
+  margin: 5px;
+  padding: 8px;
+  width: 200px;
+}
